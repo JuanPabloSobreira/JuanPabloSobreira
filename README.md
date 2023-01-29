@@ -1,6 +1,6 @@
 ### Olá!  Eu sou  o  juan
 
-- 🔭  Atualmente não estou  trabalahndo
+- 🔭  Atualmente sou um Desenvolvedor Web
 - 🌱  Estudando HTML5 e CSS3
 - 😄 Pronouns:  ele/dele
 
